@@ -10,17 +10,7 @@ SwitchNightMode is an Android application that allows users to toggle between li
 
 ## Screenshots
 
-![Light Mode](screenshots/light_mode.png)
-![Dark Mode](screenshots/dark_mode.png)
-
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/switchnightmode.git
-    ```
-2. Open the project in Android Studio.
-3. Build and run the project on an Android device or emulator.
+https://github.com/user-attachments/assets/30395b96-ca91-4cf6-ad3f-cfde851ed7e8
 
 ## Usage
 
